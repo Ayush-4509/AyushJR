@@ -1,2 +1,3 @@
 # AyushJR
-This is my first Git Resporatory 
+This is my first Git Resporatory.
+Author - Ayush Tiwari
